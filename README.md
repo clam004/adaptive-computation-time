@@ -1,6 +1,4 @@
-# AdaptiveComputationTimeTutorial
-
-Tutorial on Adaptive Computation Time
+# Tutorial on Adaptive Computation Time for Recurrent Neural Networks
 
 This jupyter notebook encompasses a tutorial and demonstration of Alex Graves's paper [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/pdf/1603.08983.pdf)
 
