@@ -1,6 +1,6 @@
 # Tutorial on Adaptive Computation Time for Recurrent Neural Networks
 
-This jupyter notebook encompasses a tutorial and demonstration of Alex Graves's paper [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/pdf/1603.08983.pdf)
+This jupyter notebook is a tutorial and demonstration implementation of Alex Graves's paper [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/pdf/1603.08983.pdf). Code is based on previous PyTorch implementation by [zphang](https://github.com/zphang/adaptive-computation-time-pytorch)
 
 <img src="https://media.arxiv-vanity.com/render-output/1687679/fig/parity_plot.png">
 
